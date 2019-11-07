@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bf74592-9fbe-470f-8fb3-ef84b2d01906" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Fonso\IdeaProjects\Semesterlongproject" />
+        <option value="C:\Users\Fonso\IdeaProjects\Semesterlongproject\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Qi4vpe91JibY58W8QPuMErljqE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fonso\IdeaProjects\Semesterlongproject" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Semesterlongproject" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="Game.TestSuite" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Fonso\IdeaProjects\Semesterlongproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.TestSuite" />
+        <item itemvalue="ScalaTest.TestSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bf74592-9fbe-470f-8fb3-ef84b2d01906" name="Default Changelist" comment="" />
+      <created>1568240315675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568240315675</updated>
+      <workItem from="1573084620395" duration="1416000" />
+    </task>
+    <task id="LOCAL-00001" summary="To Drew Sulker 9-11-2019 &#10;Alfonso Lewis&#10;Lab A5">
+      <created>1568246670384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568246670384</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Character Object">
+      <created>1573084709029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573084709029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Character Object 11/6">
+      <created>1573084876733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573084876733</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="To Drew Sulker 9-11-2019 &#10;Alfonso Lewis&#10;Lab A5" />
+    <MESSAGE value="Character Object" />
+    <MESSAGE value="Character Object 11/6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Character Object 11/6" />
+  </component>
+</project>
